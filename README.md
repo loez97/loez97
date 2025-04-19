@@ -5,19 +5,17 @@
 ### 🧠 Sobre mim
 
 - 🚀 Front-end dev apaixonado por criar experiências web envolventes  
-- 🧑‍💻 Atualmente focado em projetos com React JS, Node.js e MongoDB  
+- 🧑‍💻 Atualmente focado em projetos com React JS
 - 📚 Estudando constantemente pra me tornar um dev completo (fullstack vem aí)  
-- 🛠️ Já trabalhei com suporte N1 e melhoria contínua, agora minha meta é transição full pra tech  
-- 🏍️ Motociclista raiz, pagando minha amarela em 20x, e sim, ela tá sempre brilhando  
-- 📺 Viciado em animes, filmes e eventos geeks (sim, vou na BGS, Anime Friends e CCXP)  
-- ☕ Códigos, café e uma dose de música me acompanham no dev life  
+- 🛠️ Já trabalhei com suporte N1 e melhoria contínua, agora minha meta é transição full pra área tech  
+- 📺 Viciado em animes, filmes e games  
+- 🎧 Código e uma dose de música me acompanham no dev life  
 
 ---
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://seusite.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gonzaga-846a7917b/) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
