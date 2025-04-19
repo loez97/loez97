@@ -51,19 +51,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuuser&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loez97&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loez97&layout=compact&theme=radical" />
 </p>
-
----
-
-### ✨ Frase do dia
-
-> "O código perfeito é igual rolê de moto em estrada vazia: direto, suave e com aquele barulhinho gostoso no fundo."
-
----
-
-### 🚧 Em construção...
-
-Se curtir código limpo, layout caprichado e uma pitada de nostalgia geek, segue aí e acompanha a jornada!  
-Ah, e se quiser conversar sobre projetos ou motos, cola no inbox 🚀
