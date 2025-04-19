@@ -1,8 +1,4 @@
-<h1 align="center">Fala aí! 👋 Eu sou o Loez</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20Developer%20%F0%9F%92%BB;Anime%2C%20Geek%20e%20Cultura%20Pop%20%E2%9C%A8;Música%20pra%20codar%20%F0%9F%8E%B5;Game%20lovers%20%F0%9F%8E%AE%20sempre%20online!&center=true&width=800&height=45&font=Fira%20Code&pause=1000" />
-</p>
+<h1 align="center">Fala aí! 👋 Eu sou o Luiz</h1>
 
 ---
 
