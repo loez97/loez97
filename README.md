@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí! 👋 Eu sou o Loez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20Developer;Motolover%20%F0%9F%9A%8D;Anime%20fan%20%E3%80%8C%E3%82%A2%E3%83%8B%E3%83%A1%20%E5%A5%BD%E3%81%8D%E3%80%8D;Code%20%E2%9D%A4%EF%B8%8F%20Coffee%20%2B%20Creativity&center=true&width=500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20Developer%20%F0%9F%92%BB;Anime%2C%20Geek%20e%20Cultura%20Pop%20%E2%9C%A8;Música%20pra%20codar%20%F0%9F%8E%B5;Game%20lovers%20%F0%9F%8E%AE%20sempre%20online!&center=true&width=800&height=45&font=Fira%20Code&pause=1000" />
 </p>
 
 ---
