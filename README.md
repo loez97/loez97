@@ -15,10 +15,10 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** com uma trajetória sólida na resolução de desafios técnicos complexos em ecossistemas **B2B e SaaS**. 
 
-- 📱 **Mobile Focus:** Especialista em **React Native**, focado em criar aplicações performáticas, escaláveis e com foco em experiência do usuário.
-- 🛡️ **Cybersecurity:** Estudioso de **AppSec** e Cibersegurança, aplicando práticas de desenvolvimento seguro e proteção de dados em cada linha de código.
-- 🔍 **Expertise Analítica:** Vasta experiência em investigações de incidentes (Troubleshooting), análise de logs e consultas SQL avançadas, vindo de uma base sólida em empresas como **Ploomes, Octadesk, Kovi e Porto Seguro**.
-- 🚀 **Goal:** Consolidar minha atuação como Desenvolvedor Fullstack, unindo a robustez do Backend com a agilidade do Mobile.
+📱 **Mobile Focus:** Entusiasta em **React Native**, focado em criar aplicações performáticas, escaláveis e com foco em experiência do usuário.
+🛡️ **Cybersecurity:** Estudioso de **AppSec** e Cibersegurança, aplicando práticas de desenvolvimento seguro e proteção de dados em cada linha de código.
+🔍 **Expertise Analítica:** Vasta experiência em investigações de incidentes (Troubleshooting), análise de logs e consultas SQL.
+🚀 **Goal:** Consolidar minha atuação como Desenvolvedor Fullstack, unindo a robustez do Backend com a agilidade do Mobile.
 
 ---
 
@@ -51,20 +51,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** com uma trajetória s�
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loez97&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loez97&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/luiz-gonzaga-846a7917b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Luiz Gonzaga" /></a>
-<a href="mailto:seuemail@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="seuemail@gmail.com" /></a>
+<a href="mailto:lzgn97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lzgn97@gmail.com" /></a>
 </p>
 
-<p align="center"><i>"Transformando incidentes complexos em código resiliente."</i></p>
+<p align="center"><i>"Não é sobre escrever linhas. É sobre arquitetar soluções"</i></p>
