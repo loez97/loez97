@@ -1,12 +1,7 @@
-<h1 align="center">Fala aí! 👋 Eu sou o Luiz (Loez)</h1>
+<h1 align="center">Fala aí! 👋 Eu sou o Luiz</h1>
 
 <p align="center">
-  <strong>Software Developer | React Native Specialist | AppSec Enthusiast</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Mobile_Development-blue?style=flat-square" />
+  <strong>React Native Developer | Cybersecurity Enthusiast | Casual Game Tester</strong>
 </p>
 
 ---
@@ -37,7 +32,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** com uma trajetória s�
 #### **Backend & Data**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-005571?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/API_Rest-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
