@@ -18,7 +18,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** com uma trajetória s�
 📱 **Mobile Focus:** Desenvolvedor **React Native**, focado em criar aplicações performáticas, escaláveis e com foco em experiência do usuário.<br>
 🛡️ **Cybersecurity:** Entusiasta de **Cibersegurança**, aplicando práticas de desenvolvimento seguro e proteção de dados em cada linha de código.<br>
 🔍 **Expertise Analítica:** Vasta experiência em investigações de incidentes (Troubleshooting), análise de logs e consultas SQL.<br>
-🎮 **Game Testing**: Atuação casual como Game Tester, apoiando desenvolvedores indies com feedbacks técnicos estruturados para melhoria de gameplay e estabilidade.<br>
+🎮 **Game Testing**: Atuação casual como Game Tester, apoiando desenvolvedores indies com feedbacks técnicos para melhoria de gameplay e estabilidade.<br>
 🚀 **Goal:** Consolidar minha atuação como Desenvolvedor Fullstack, unindo a robustez do Backend com a agilidade do Mobile.
 
 ---
