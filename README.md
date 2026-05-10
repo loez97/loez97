@@ -15,9 +15,9 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** com uma trajetória sólida na resolução de desafios técnicos complexos em ecossistemas **B2B e SaaS**. 
 
-📱 **Mobile Focus:** Entusiasta em **React Native**, focado em criar aplicações performáticas, escaláveis e com foco em experiência do usuário.\n
-🛡️ **Cybersecurity:** Estudioso de **AppSec** e Cibersegurança, aplicando práticas de desenvolvimento seguro e proteção de dados em cada linha de código.\n
-🔍 **Expertise Analítica:** Vasta experiência em investigações de incidentes (Troubleshooting), análise de logs e consultas SQL.\n
+📱 **Mobile Focus:** Entusiasta em **React Native**, focado em criar aplicações performáticas, escaláveis e com foco em experiência do usuário.<br>
+🛡️ **Cybersecurity:** Estudioso de **AppSec** e Cibersegurança, aplicando práticas de desenvolvimento seguro e proteção de dados em cada linha de código.<br>
+🔍 **Expertise Analítica:** Vasta experiência em investigações de incidentes (Troubleshooting), análise de logs e consultas SQL.<br>
 🚀 **Goal:** Consolidar minha atuação como Desenvolvedor Fullstack, unindo a robustez do Backend com a agilidade do Mobile.
 
 ---
